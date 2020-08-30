@@ -12,7 +12,7 @@ namespace MyWeather
         private string url  = "http://api.openweathermap.org/data/2.5/weather";
         private string city  = "Иваново";
         private string appid = "a8934a33b74774a52a92e072ab3b4d55";
-        private string lang  = "en";
+        private string lang  = "ru";
         private string units = "metric";
 
         public RequestSettings()
